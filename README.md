@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TANVI</h1>
 <h3 align="center">An enthusiastic beginner full stack developer eager to create impactful web solutions and explore the dynamic world of coding.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radshu21" alt="radshu21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi-talhan" alt="tanvi-talhan" /></a> </p>
 
 - 🔭 I’m currently working on **MEAL MANTRA**
 
