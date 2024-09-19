@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **RA Gym Website**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Radshu21](https://github.com/tanvi-talhan)
+- 👨‍💻 All of my projects are available at [https://github.com/tanvi-talhan](https://github.com/tanvi-talhan)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
